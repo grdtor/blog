@@ -1,1 +1,1 @@
-# blog
+# Grandinator Blog Assets
