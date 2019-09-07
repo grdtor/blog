@@ -1,1 +1,1 @@
-*Image Assets*
+**Image Assets**
