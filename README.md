@@ -1,1 +1,1 @@
-# Grandinator Blog Assets
+# Grandinator Blog Template Assets
