@@ -1,3 +1,2 @@
-# GRDTOR•MBT Assets
-## GRDTOR•MBT (Main Blogger Theme)
+# GRDTOR•MBT (Main Blogger Theme)
 By: Grandinator
